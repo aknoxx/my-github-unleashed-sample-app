@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0](https://github.com/aknoxx/my-github-unleashed-sample-app/compare/v0.0.2...v0.1.0) (2025-06-24)
+
+
+### Features
+
+* new link ([a2fc32c](https://github.com/aknoxx/my-github-unleashed-sample-app/commit/a2fc32cb0468bea487fa73d81623564de669d0a2))
+
 ## [0.0.2](https://github.com/aknoxx/my-github-unleashed-sample-app/compare/v0.0.1...v0.0.2) (2025-06-24)
 
 
