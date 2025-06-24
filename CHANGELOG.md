@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.2](https://github.com/aknoxx/my-github-unleashed-sample-app/compare/v0.0.1...v0.0.2) (2025-06-24)
+
+
+### Bug Fixes
+
+* **deps:** bump org.springframework.boot:spring-boot-starter-parent ([a76db11](https://github.com/aknoxx/my-github-unleashed-sample-app/commit/a76db1182e5671c50c4c9df019ba6e56ad6d5ea2))
+* fix the header typo ([3138fc0](https://github.com/aknoxx/my-github-unleashed-sample-app/commit/3138fc0c3b8a31c3dccbc4a5c4433766d17d0e1c))
+
 ## 0.0.1 (2025-06-24)
 
 
